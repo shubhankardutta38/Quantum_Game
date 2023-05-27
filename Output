@@ -1,0 +1,19 @@
+output:
+Choose measurement basis (X or Z): X
+Player's measurement outcome: 1
+Computer's measurement basis: Z
+Computer's measurement outcome: 0
+
+Choose measurement basis (X or Z): Z
+Player's measurement outcome: 0
+Computer's measurement basis: X
+Computer's measurement outcome: 0
+
+Choose measurement basis (X or Z): Z
+Player's measurement outcome: 0
+Computer's measurement basis: X
+Computer's measurement outcome: 1
+
+Choose measurement basis (X or Z): Z
+Player's measurement outcome: 1
+Congratulations! You win!
