@@ -1,7 +1,7 @@
 # Quantum_Game
 
 
-Quantum_Project
+Quantum_Project\n
 Shawan Mondal(20201CAI0146)
 Ayush Tiwari(20201CAI0221)
 Shubhankar Dutta(20201CAI0115)
