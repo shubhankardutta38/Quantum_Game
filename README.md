@@ -3,13 +3,10 @@
 
 Quantum_Project
 
-Shawan Mondal(20201CAI0146)
-
-Ayush Tiwari(20201CAI0221)
-
-Shubhankar Dutta(20201CAI0115)
-
-Priya Rana(20201CAI0223)
+Shawan Mondal(20201CAI0146)|
+Ayush Tiwari(20201CAI0221)|
+Shubhankar Dutta(20201CAI0115)|
+Priya Rana(20201CAI0223)|
 
 
 
