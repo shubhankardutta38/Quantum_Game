@@ -12,6 +12,11 @@ Shubhankar Dutta(20201CAI0115)
 Priya Rana(20201CAI0223)
 
 
+
+
+
+
+
 Objective: The objective of the game is to correctly guess the outcome of a quantum coin flip.
 
 Rules:
